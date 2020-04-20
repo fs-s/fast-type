@@ -26,3 +26,11 @@
  color: blue;
  font-weight: bold;
 }
+.incorrect {
+    color:red;
+    font-weight: bold;
+}
+.correct{
+    color: green;
+    font-weight: bold;
+}
